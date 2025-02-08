@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">MDK มารวยด้วยกัน</string>
+    <string name="title_activity_main">MDK มารวยด้วยกัน</string>
+    <string name="package_name">com.Maruey</string>
+    <string name="custom_url_scheme">com.Maruey</string>
+</resources>

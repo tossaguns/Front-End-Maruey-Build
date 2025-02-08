@@ -1,0 +1,18 @@
+/* @import url('https://fonts.googleapis.com/css?family=Sarabun&display=swap'); */
+@import url("https://fonts.googleapis.com/css?family=Kanit&display=swap");
+@import "./base.css";
+
+*,
+.font {
+  font-family: "Kanit";
+}
+
+#app {
+  margin: 0 auto;
+  font-weight: normal;
+  font-family: "Kanit";
+}
+
+html {
+  scroll-behavior: smooth;
+}

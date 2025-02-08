@@ -1,0 +1,6 @@
+{
+  "appId": "com.Maruey",
+  "appName": "Maruey",
+  "webDir": "dist",
+  "icon": "/src/assets/images/logo.png"
+}

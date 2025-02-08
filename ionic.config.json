@@ -1,0 +1,7 @@
+{
+  "name": "Maruey",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "custom"
+}

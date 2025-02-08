@@ -1,0 +1,49 @@
+.bin-button {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 45px;
+    height: 45px;
+    border-radius: 15px;
+    background-color: rgb(255, 95, 95) !important;
+    cursor: pointer;
+    border: 3px solid rgb(255, 201, 201) !important;
+    transition-duration: 0.3s;
+  }
+  .edit-button {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 45px;
+    height: 45px;
+    border-radius: 15px;
+    background-color: #FF6C22 !important;
+    cursor: pointer;
+    border: 3px solid #FFD8A9 !important;
+    transition-duration: 0.3s;
+  }
+  .edit-button:hover {
+    background-color: #FC4F00 !important;
+  }
+  .bin-bottom {
+    width: 15px;
+  }
+  .bin-top {
+    width: 17px;
+    transform-origin: right;
+    transition-duration: 0.3s;
+  }
+  .bin-button:hover .bin-top {
+    transform: rotate(45deg);
+  }
+  .bin-button:hover {
+    background-color: rgb(255, 0, 0) !important;
+  }
+  .bin-button:active {
+    transform: scale(0.9);
+  }
+  .editBtn:hover svg {
+    transform: rotate(-15deg) translateX(5px);
+  }
